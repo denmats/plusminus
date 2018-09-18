@@ -1,0 +1,11 @@
+body {
+  background: lightcoral
+}
+
+.btn {
+  min-width: 3rem;
+  min-height: 3rem;
+}
+
+
+
